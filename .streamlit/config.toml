@@ -1,0 +1,8 @@
+[server]
+headless = true
+runOnSave = true
+port = 9876
+
+[theme]
+base = "dark"
+font = "sans serif"
